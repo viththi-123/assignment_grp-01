@@ -1,4 +1,4 @@
-# assignment_grp-01
+# Assignment_Grp-01
 This repository is for assignment
 
 # Group Members
