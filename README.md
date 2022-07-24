@@ -2,8 +2,9 @@
 This repository is for assignment
 
 # Group Members
-> SITHARA M H	: COHNDDS211P-010
 > 
-> VITHTHIANANTH T	: COHNDDS211P-011
+> Member-A : VITHTHIANANTH T	: COHNDDS211P-011
+>
+> Member-B : SITHARA M H	: COHNDDS211P-010
 > 
-> T.D. Rajakaruna	: COHNDDS211P-009
+> Member-C : T.D. RAJAKARUNA	: COHNDDS211P-009
